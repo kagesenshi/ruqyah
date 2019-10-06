@@ -1,0 +1,179 @@
+file 'resources/audhubillah.mp3'
+file 'resources/bismillah.mp3'
+
+# al-fatihah 
+file 'versebyverse/001002.mp3'
+file 'versebyverse/001003.mp3'
+file 'versebyverse/001004.mp3'
+file 'versebyverse/001005.mp3'
+file 'versebyverse/001006.mp3'
+file 'versebyverse/001007.mp3'
+
+# al-baqarah 1-5
+#file 'versebyverse/002000.mp3'
+file 'versebyverse/002001.mp3'
+file 'versebyverse/002002.mp3'
+file 'versebyverse/002003.mp3'
+file 'versebyverse/002004.mp3'
+file 'versebyverse/002005.mp3'
+
+# al-baqarah 102-103
+file 'versebyverse/002102.mp3'
+file 'versebyverse/002103.mp3'
+
+# al-baqarah 163-164
+file 'versebyverse/002163.mp3'
+file 'versebyverse/002164.mp3'
+
+# al-baqarah 255
+file 'versebyverse/002255.mp3'
+
+# al-baqarah 256
+file 'versebyverse/002256.mp3'
+
+# al-baqarah 284-286
+file 'versebyverse/002284.mp3'
+file 'versebyverse/002285.mp3'
+file 'versebyverse/002286.mp3'
+
+# ali-imran 18-19
+file 'resources/bismillah.mp3'
+file 'versebyverse/003018.mp3'
+file 'versebyverse/003019.mp3'
+
+# an-nisaa 13
+file 'resources/bismillah.mp3'
+file 'versebyverse/004013.mp3'
+
+# al-a'araf 54-56
+file 'resources/bismillah.mp3'
+file 'versebyverse/007054.mp3'
+file 'versebyverse/007055.mp3'
+file 'versebyverse/007056.mp3'
+
+# al-a'raf 117-122
+file 'versebyverse/007117.mp3'
+file 'versebyverse/007118.mp3'
+file 'versebyverse/007119.mp3'
+file 'versebyverse/007120.mp3'
+file 'versebyverse/007121.mp3'
+file 'versebyverse/007122.mp3'
+
+# yunus 57
+file 'resources/bismillah.mp3'
+file 'versebyverse/010057.mp3'
+
+# yunus 81-82
+file 'versebyverse/010081.mp3'
+file 'versebyverse/010082.mp3'
+
+# al-isra 82
+file 'resources/bismillah.mp3'
+file 'versebyverse/017082.mp3'
+
+
+# taha 69
+file 'resources/bismillah.mp3'
+file 'versebyverse/020069.mp3'
+
+# al-mukminun 115-118
+file 'resources/bismillah.mp3'
+file 'versebyverse/023115.mp3'
+file 'versebyverse/023116.mp3'
+file 'versebyverse/023117.mp3'
+file 'versebyverse/023118.mp3'
+
+# ar-rum 21
+file 'resources/bismillah.mp3'
+file 'versebyverse/030021.mp3'
+
+# saba 12
+file 'resources/bismillah.mp3'
+file 'versebyverse/034012.mp3'
+
+# yasin 65-67
+file 'resources/bismillah.mp3'
+file 'versebyverse/036065.mp3'
+file 'versebyverse/036066.mp3'
+file 'versebyverse/036067.mp3'
+
+# as-shaffat 1-10
+#file 'versebyverse/037000.mp3'
+file 'versebyverse/037001.mp3'
+file 'versebyverse/037002.mp3'
+file 'versebyverse/037003.mp3'
+file 'versebyverse/037004.mp3'
+file 'versebyverse/037005.mp3'
+file 'versebyverse/037006.mp3'
+file 'versebyverse/037007.mp3'
+file 'versebyverse/037008.mp3'
+file 'versebyverse/037009.mp3'
+file 'versebyverse/037010.mp3'
+
+# fussilat 44
+file 'resources/bismillah.mp3'
+file 'versebyverse/041044.mp3'
+
+# al-ahqraf 29-32
+file 'resources/bismillah.mp3'
+file 'versebyverse/046029.mp3'
+file 'versebyverse/046030.mp3'
+file 'versebyverse/046031.mp3'
+file 'versebyverse/046032.mp3'
+
+# adz-daariyaat 56
+file 'resources/bismillah.mp3'
+file 'versebyverse/051056.mp3'
+
+
+# ar-rahman 33-36
+file 'resources/bismillah.mp3'
+file 'versebyverse/055033.mp3'
+file 'versebyverse/055034.mp3'
+file 'versebyverse/055035.mp3'
+file 'versebyverse/055036.mp3'
+
+# al-hasyr 21-24
+file 'resources/bismillah.mp3'
+file 'versebyverse/059021.mp3'
+file 'versebyverse/059022.mp3'
+file 'versebyverse/059023.mp3'
+file 'versebyverse/059024.mp3'
+
+# al-jin 1-10
+#file 'versebyverse/072000.mp3'
+file 'versebyverse/072001.mp3'
+file 'versebyverse/072002.mp3'
+file 'versebyverse/072003.mp3'
+file 'versebyverse/072004.mp3'
+file 'versebyverse/072005.mp3'
+file 'versebyverse/072006.mp3'
+file 'versebyverse/072007.mp3'
+file 'versebyverse/072008.mp3'
+file 'versebyverse/072009.mp3'
+file 'versebyverse/072010.mp3'
+
+# al-ikhlas 
+#file 'versebyverse/112000.mp3'
+file 'versebyverse/112001.mp3'
+file 'versebyverse/112002.mp3'
+file 'versebyverse/112003.mp3'
+file 'versebyverse/112004.mp3'
+
+# al-falaq
+#file 'versebyverse/113000.mp3'
+file 'versebyverse/113001.mp3'
+file 'versebyverse/113002.mp3'
+file 'versebyverse/113003.mp3'
+file 'versebyverse/113004.mp3'
+file 'versebyverse/113005.mp3'
+
+# an-nas
+#file 'versebyverse/114000.mp3'
+file 'versebyverse/114001.mp3'
+file 'versebyverse/114002.mp3'
+file 'versebyverse/114003.mp3'
+file 'versebyverse/114004.mp3'
+file 'versebyverse/114005.mp3'
+file 'versebyverse/114006.mp3'
+
